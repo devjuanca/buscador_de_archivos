@@ -1,0 +1,15 @@
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Debug\BuscadorIndex.exe.config
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Debug\BuscadorIndex.exe
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Debug\BuscadorIndex.pdb
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.csprojAssemblyReference.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\MainWindow.g.cs
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\App.g.cs
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex_MarkupCompile.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex_MarkupCompile.lref
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\MainWindow.baml
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.g.resources
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.Properties.Resources.resources
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.csproj.GenerateResource.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.csproj.CoreCompileInputs.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.exe
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Debug\BuscadorIndex.pdb

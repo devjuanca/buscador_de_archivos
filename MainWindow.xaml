@@ -1,0 +1,41 @@
+﻿<Window x:Class="BuscadorIndex.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BuscadorIndex"
+        mc:Ignorable="d"
+        Title="Buscador" Height="463.091" Width="566.818" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox Name="BuscarTexto"  HorizontalAlignment="Left"  Height="23" Margin="10,30,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="434"/>
+        <Button Name="BuscarBoton" Content="Buscar" HorizontalAlignment="Left" Margin="449,30,0,0" VerticalAlignment="Top" Width="85" Height="23" Click="BuscarBoton_Click"/>
+        <ComboBox Name="DiscosCombo" HorizontalAlignment="Left" Margin="10,58,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListView Name="ListaBusqueda" HorizontalAlignment="Left" Height="269" Margin="10,85,0,0" VerticalAlignment="Top" Width="539">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Nombre" Width="150" >
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock  Text="{Binding NombreArchivo}" Foreground="Blue" Cursor="Hand" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Ruta" Width="300" DisplayMemberBinding="{Binding Ruta}">
+
+                    </GridViewColumn>
+                    <GridViewColumn Header="Tamaño" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock  Text="{Binding Tamanno}" />
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <StatusBar Name="StatusBar" HorizontalAlignment="Left" Height="21" Margin="0,411,0,0" VerticalAlignment="Top" Width="559"/>
+        <Label Name="StatusLabel" Content="Buscando..." Visibility="Hidden" HorizontalAlignment="Left" Margin="458,53,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.295,0.41"/>
+        <Label x:Name="TiempoLabel" Content="Label" HorizontalAlignment="Left" Margin="191,57,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

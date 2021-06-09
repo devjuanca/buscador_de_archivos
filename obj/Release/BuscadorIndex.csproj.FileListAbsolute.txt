@@ -1,0 +1,15 @@
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Release\BuscadorIndex.exe.config
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Release\BuscadorIndex.exe
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\bin\Release\BuscadorIndex.pdb
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\MainWindow.g.cs
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\App.g.cs
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex_MarkupCompile.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex_MarkupCompile.lref
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\MainWindow.baml
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.g.resources
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.Properties.Resources.resources
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.csproj.GenerateResource.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.csproj.CoreCompileInputs.cache
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.exe
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.pdb
+D:\My Data\Mis Proyectos\!!Entrenando\BuscadorIndex\obj\Release\BuscadorIndex.csprojAssemblyReference.cache
